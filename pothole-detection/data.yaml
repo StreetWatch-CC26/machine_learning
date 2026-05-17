@@ -1,0 +1,4 @@
+train: /kaggle/input/datasets/dzakiyahakimaadila/capstone-projek2/images/train
+val: /kaggle/input/datasets/dzakiyahakimaadila/capstone-projek2/images/validation
+nc: 3
+names: ['rendah', 'sedang', 'parah']
